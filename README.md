@@ -13,6 +13,7 @@ These pets are intentionally simple: a manifest, a spritesheet, and a tiny chara
 
 | Pet | Description |
 | --- | --- |
+| <a href="blonde-zombie/README.md"><img src="blonde-zombie/screenshot.png" alt="Blonde Zombie" width="160"><br>Blonde Zombie</a> | A quiet blonde zombie with simple slow motions. |
 | <a href="free-hugs-zombie/README.md"><img src="free-hugs-zombie/screenshot.png" alt="Free Hugs Zombie" width="160"><br>Free Hugs Zombie</a> | A shy little zombie in a Free Hugs sign shirt. |
 | <a href="hunched-zombie/README.md"><img src="hunched-zombie/screenshot.png" alt="Hunched Zombie" width="160"><br>Hunched Zombie</a> | A hunched green zombie with slow thinking motions. |
 | <a href="red-hair-zombie/README.md"><img src="red-hair-zombie/screenshot.png" alt="Red-Hair Zombie" width="160"><br>Red-Hair Zombie</a> | A quiet red-haired zombie with simple slow motions. |
