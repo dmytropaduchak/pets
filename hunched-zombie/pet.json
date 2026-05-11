@@ -1,0 +1,6 @@
+{
+  "id": "hunched-zombie",
+  "displayName": "Hunched Zombie",
+  "description": "A hunched green zombie with slow thinking and trembling motions.",
+  "spritesheetPath": "spritesheet.webp"
+}
